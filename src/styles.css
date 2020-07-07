@@ -1,0 +1,17 @@
+/*========== Este es el estilo del main.css ==========*/
+
+
+html, body {
+    background: rgb(73, 73, 255);
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    
+}
+
+h1{
+    font-weight: 400;
+}
+
+img{
+    width: 200px;
+}
