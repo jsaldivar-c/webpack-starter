@@ -2,7 +2,7 @@
 
 ---
 
-![Webpack](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601949794/webpack_nytfay.png "Webpack")
+![Webpack](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1601949794/GitHub/webpack_nytfay.png "Webpack")
 
 Base para crear aplicaciones con **webpack**.
 
